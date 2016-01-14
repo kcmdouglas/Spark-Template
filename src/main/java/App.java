@@ -17,9 +17,5 @@ public class App {
     }, new VelocityTemplateEngine());
 
   }
-
-  public static "object" "function"() {
-
-  }
 }
 	
